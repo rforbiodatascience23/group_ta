@@ -40,3 +40,10 @@ cat("The factorial of", n, "is", result, "\n")
 ```{r}
 1 + 2 + 3
 ```
+
+### New stuff
+
+```{r}
+blue <- 5
+```
+
