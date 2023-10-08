@@ -1,0 +1,34 @@
+---
+title: "group_document"
+format: html
+editor: visual
+---
+
+## Nils
+
+Feeling like a hero makes you a zero
+
+```{r}
+# Define a function to calculate the factorial of a number
+factorial <- function(n) {
+  if (n == 0) {
+    return(1)
+  } else {
+    result <- 1
+    for (i in 1:n) {
+      result <- result * i
+    }
+    return(result)
+  }
+}
+
+# Calculate the factorial of a number
+n <- 5  # Replace with the number for which you want to calculate the factorial
+result <- factorial(n)
+cat("The factorial of", n, "is", result, "\n")
+
+```
+
+## Helene
+
+## Puck
