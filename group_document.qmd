@@ -29,6 +29,12 @@ cat("The factorial of", n, "is", result, "\n")
 
 ```
 
+### Sub analysis
+
+```{r}
+1=1
+```
+
 ## Helene
 
 ```{r}
