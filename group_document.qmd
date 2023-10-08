@@ -31,6 +31,10 @@ cat("The factorial of", n, "is", result, "\n")
 
 ## Helene
 
+```{r}
+1+1 == 3
+```
+
 ## Puck
 
 ```{r}
